@@ -82,20 +82,23 @@ These include emotion-annotated EEG data with valence, arousal, and dominance va
 
 
 🎯 Future Enhancements
-Real-time EEG streaming and classification
+      
+- Real-time EEG streaming and classification
 
-More fine-grained emotional states (e.g., anxious, excited, tired)
+- More fine-grained emotional states (e.g., anxious, excited, tired)
 
-Multilingual chatbot support
+- Multilingual chatbot support
 
-Integration with wearable EEG devices (e.g., Emotiv, Muse)
+-Integration with wearable EEG devices (e.g., Emotiv, Muse)
 
-🙋‍♀️ About Me
-Hi! I'm Likhitha, an engineering student passionate about brain-computer interfaces, emotional AI, and mental health innovation. This project blends neuroscience, AI, and empathy to make technology more human-aware.
+🙋‍♀️ About Me :-
+
+ Hi! I'm Likhitha, an engineering student passionate about brain-computer interfaces, emotional AI, and mental health innovation. This project blends neuroscience, AI, and empathy to make technology more human-aware.
 
 📬 Contact
-GitHub: @Likhithaj123
+    
+   GitHub: @Likhithaj123
 
-Email: [likhithajlikhi@gmail.com]
+   Email: [likhithajlikhi@gmail.com]
 
 # Feel free to contribute, fork, or raise issues!
