@@ -60,7 +60,7 @@ These include emotion-annotated EEG data with valence, arousal, and dominance va
 1. Clone the repo:
    ```bash
    git clone https://github.com/Likhithaj123/Emotion_recognition-MP-.git
-   cd Emotion_recognition-MP-
+   cd Emotion_recognition-MP-/emotion_recognization
 2. Install dependencies:
    ```bash
      pip install -r requirements.txt
