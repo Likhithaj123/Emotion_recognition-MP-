@@ -49,7 +49,7 @@ These include emotion-annotated EEG data with valence, arousal, and dominance va
 - NumPy, Pandas, SciPy
 - PyWavelets / FFT
 - Scikit-learn, TensorFlow, or PyTorch
-- Streamlit (for chatbot frontend)
+- React (for chatbot frontend)
 - OpenAI API / Hugging Face Transformers (for LLM)
 - Matplotlib, Seaborn (visualizations)
 
@@ -70,7 +70,7 @@ These include emotion-annotated EEG data with valence, arousal, and dominance va
     python train_model.py
 4. Start the chatbot:
    ```bash
-    streamlit run chatbot_app.py
+    npm run chatbot_app.py
 
 📈 Emotion Classifier Results
 | Emotion | Accuracy |
